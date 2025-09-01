@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "flask",
+			"path": "."
+		},
+		{
+			"name": "advpython_flask",
+			"path": "../../../../../github/advpython_flask"
+		}
+	],
+	"settings": {}
+}
